@@ -1,2 +1,2 @@
 # Software-Fault-Prediction
-Research report for predicting siftware faults using ML
+Research report for predicting software faults using ML
